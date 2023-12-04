@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to Page 21bb1d3e-726c-4f84-9339-authorize --> navigate to Page t",
+        "step 2: Login at Page t --> navigate to Page inventory html#code=0 ASsAPh27IWxyhE-TOVG8BZK",
+        "step 3: At Page inventory html#code=0 ASsAPh27IWxyhE-TOVG8BZK click on button add to cart sauce labs backpack",
+        "step 4: At Page inventory html#code=0 ASsAPh27IWxyhE-TOVG8BZK click on hyperlink item 4 title link --> navigate to Page inventory-item html",
+        "step 5: At Page inventory-item html click on hyperlink object --> navigate to Page cart html",
+        "step 6: At Page cart html click on hyperlink object",
+        "step 7: At Page cart html click on button checkout --> navigate to Page checkout-step-one html",
+        "step 8: At Page checkout-step-one html input on input firstname",
+        "step 9: At Page checkout-step-one html input on input lastname",
+        "step 10: At Page checkout-step-one html input on input postalcode",
+        "step 11: At Page checkout-step-one html click on input continue --> navigate to Page checkout-step-two html",
+        "step 12: Add visual checkpoint at Page checkout-step-two html"
+    ]
+}
