@@ -1,5 +1,15 @@
 Flow ID,Description,Test Steps,Flow Priority
-2,Verify Home Page Navigation,"step 1: Navigate to Page home
-step 2: Add visual checkpoint at Page home",High
-1,Verify Sign in Page Navigation,"step 1: Navigate to Page signin
-step 2: Add visual checkpoint at Page signin",High
+2,Verify Successful Navigation to page Inventory Html from page Inventory Item Html,"step 1: Navigate to Page inventory-item html
+step 2: At Page inventory-item html click on button back to products --> navigate to Page inventory html
+step 3: Add visual checkpoint at Page inventory html",High
+3,Verify Successful Navigation to page Checkout Complete Html,"step 1: Navigate to Page checkout-complete html
+step 2: Add visual checkpoint at Page checkout-complete html",Medium
+6,Verify Successful Navigation to page Cart Html,"step 1: Navigate to Page cart html
+step 2: Add visual checkpoint at Page cart html",Medium
+4,Verify Successful Navigation to page Checkout Step Two Html,"step 1: Navigate to Page checkout-step-two html
+step 2: Add visual checkpoint at Page checkout-step-two html",Medium
+1,Verify Successful Authorization on page21 bb1 d3 e726 c4 f849339 Authorize,"step 1: Navigate to Page 21bb1d3e-726c-4f84-9339-authorize --> navigate to Page t
+step 2: Login at Page t --> navigate to Page 21bb1d3e-726c-4f84-9339-authorize
+step 3: Add visual checkpoint at Page 21bb1d3e-726c-4f84-9339-authorize",Medium
+5,Verify Successful Navigation to page Checkout Step One Html,"step 1: Navigate to Page checkout-step-one html
+step 2: Add visual checkpoint at Page checkout-step-one html",Medium

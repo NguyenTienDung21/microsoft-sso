@@ -2,7 +2,7 @@
 <GlobalVariableEntities>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>'hungmotlan@gmail.com'</initValue>
+        <initValue>'hunghaidoi934@gmail.com'</initValue>
         <name>username</name>
     </GlobalVariableEntity>
     <GlobalVariableEntity>
@@ -12,11 +12,11 @@
     </GlobalVariableEntity>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>'https://eco.aut.katalon.com/signin'</initValue>
+        <initValue>'https://xuanan-gy.github.io'</initValue>
         <name>application_domain</name>
     </GlobalVariableEntity>
-    <defaultProfile>False</defaultProfile>
+    <defaultProfile>True</defaultProfile>
     <description></description>
-    <name>sso_microsoft</name>
+    <name>test ms rd</name>
     <tag></tag>
 </GlobalVariableEntities>

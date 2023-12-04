@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page inventory-item html",
+        "step 2: At Page inventory-item html click on button back to products --> navigate to Page inventory html",
+        "step 3: Add visual checkpoint at Page inventory html"
+    ]
+}

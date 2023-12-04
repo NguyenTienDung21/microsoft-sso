@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Other ways to sign in</name>
+   <tag></tag>
+   <elementGuidId>13158f87-1430-4ce0-93bb-346ec9662426</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#idA_PWD_SwitchToCredPicker</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='idA_PWD_SwitchToCredPicker']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b509a78a-ec7b-4290-93fc-d4521d67734f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>idA_PWD_SwitchToCredPicker</value>
+      <webElementGuid>45f021bb-0da1-47d1-a6d1-041361e38341</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>a364ce45-4c24-4e2a-a5c8-3859c5fe04f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>
+        text: isUserKnown ? str['CT_PWD_STR_SwitchToCredPicker_Link'] : str['CT_PWD_STR_SwitchToCredPicker_Link_NoUser'],
+        ariaDescribedBy: ariaDescribedBy,
+        click: switchToCredPicker_onClick,
+        hasFocusEx: setFocus</value>
+      <webElementGuid>ad0a1084-4388-42c3-962c-fb441948ae28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Other ways to sign in</value>
+      <webElementGuid>48661e4c-d014-4977-9313-ced35327babb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idA_PWD_SwitchToCredPicker&quot;)</value>
+      <webElementGuid>b6609bd4-2584-431e-818c-b879c7db5c78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='idA_PWD_SwitchToCredPicker']</value>
+      <webElementGuid>1f4495a2-4776-4b52-a7d0-4f986940992d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='lightbox']/div[3]/div/div[2]/div/div[3]/div/div/div/div/div/a</value>
+      <webElementGuid>2557dc7b-2896-470b-a962-43dc4e50aacb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Other ways to sign in')]</value>
+      <webElementGuid>7c983c4a-31df-4fb4-bf1b-77a08fbd81b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::a[1]</value>
+      <webElementGuid>9d72d024-d15b-461e-a597-0e2980892111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ninhnguyendx779@gmail.com'])[1]/following::a[1]</value>
+      <webElementGuid>eca6e12b-79db-4b92-8f10-0ed03d23c59b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of use'])[1]/preceding::a[1]</value>
+      <webElementGuid>cec8bbb5-af88-4a11-9ca3-956b5ca0581b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy &amp; cookies'])[1]/preceding::a[2]</value>
+      <webElementGuid>60dc4bf8-e64c-41aa-a715-85d0510167d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Other ways to sign in']/parent::*</value>
+      <webElementGuid>ebb5b8b8-ad42-4610-a3da-7eccc1b8c801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#')]</value>
+      <webElementGuid>9834bd2f-0f38-4a07-bb28-669780cda61b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>b800a6ad-360d-4be4-a2b8-b0e07e64ff66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'idA_PWD_SwitchToCredPicker' and @href = '#' and (text() = 'Other ways to sign in' or . = 'Other ways to sign in')]</value>
+      <webElementGuid>47ad02ba-928b-4e7a-b17a-be9cf972da81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
